@@ -41,15 +41,16 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['761192103'] //ur owner number
-global.ownername = "Udavin Wijesundara"
+global.owner = ['967772565335'] //ur owner number
+global.ownername "kakashy"
 global.ytname = "YT: UW TECH SHOW" //ur yt chanel name
 global.socialm = "Insta: udavin_wijesundara" //ur github or insta name
 global.location = "Sri-Lanka" //ur location
 
 //bot bombdy
-global.botname = "White King WhatsApp Bot" //ur bot name
-global.websitex = "https://www.youtube.com/channel/UC8CNAgNIXy1O2vLBBSN7tcA" //ur website
+global.botname = "kakashy WhatsApp Bot" //ur bot name
+global.websitex = "
+" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "Udavin Wijesundara"
